@@ -72,10 +72,10 @@ const CONFIG = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3",
+        musicUrl: "https://youtu.be/Ho-Eh-91qk8?si=ezgq9MOwu09htbC-",
         startText: "🎵 Reproducir música",
         stopText: "🔇 Detener música",
-        volume: 25
+        volume: 1
     }
 };
 
